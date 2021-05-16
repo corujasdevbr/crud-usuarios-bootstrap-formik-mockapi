@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/crud-usuarios/index.css"],"names":[],"mappings":"AAAA,MACI,YAAa,CACb,SACJ,CAEA,QACI,iBACJ,CAEA,eACI,gBACJ","file":"main.38a073bd.chunk.css","sourcesContent":[".erro  {\r\n    font-size: 12;\r\n    color: red;\r\n}\r\n\r\n.center {\r\n    text-align: center;\r\n}\r\n\r\n.center .ml-20 {\r\n    margin-left: 20px;\r\n}"]}
