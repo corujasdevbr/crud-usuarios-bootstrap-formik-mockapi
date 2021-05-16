@@ -1,0 +1,12 @@
+.erro  {
+    font-size: 12;
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+.center .ml-20 {
+    margin-left: 20px;
+}
