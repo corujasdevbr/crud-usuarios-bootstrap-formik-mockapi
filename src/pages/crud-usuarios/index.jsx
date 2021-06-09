@@ -16,7 +16,7 @@ const CrudUsers = () => {
     const [users, setUsers] = useState()
     const [show, setShow] = useState(false);
 
-    const url = 'http://60a053e279c19b00174f0b3f.mockapi.io/v1/users'
+    const url = 'https://60a053e279c19b00174f0b3f.mockapi.io/v1/users'
 
     const handleClose = () => {
         formik.resetForm();
